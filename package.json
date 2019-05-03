@@ -1,0 +1,24 @@
+{
+  "name": "ts-31218",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajafff/ts-31218.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajafff/ts-31218/issues"
+  },
+  "homepage": "https://github.com/ajafff/ts-31218#readme",
+  "dependencies": {
+    "@types/node": "^11.13.9",
+    "typescript": "^3.5.0-dev.20190503"
+  }
+}

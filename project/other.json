@@ -1,0 +1,5 @@
+{
+    "files": ["b.ts"],
+    "compilerOptions": {"composite": true},
+    "references": [{"path": "missing.json"}]
+}

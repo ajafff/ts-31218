@@ -1,0 +1,4 @@
+{
+    "files": ["a.ts"],
+    "references": [{"path": "other.json"}, {"path": "missing.json"}]
+}
